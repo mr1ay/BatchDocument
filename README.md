@@ -1,2 +1,2 @@
 # BatchDocument
-two batch document
+batch documents
